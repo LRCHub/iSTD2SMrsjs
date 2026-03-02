@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アルトラエレジー (Self Cover)",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-03-02T16:31:31.617192Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルトラエレジー (Self Cover)",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_アルトラエレジー_(Self_Cover)_Aqu3ra.txt"
+    }
+  ]
+}
